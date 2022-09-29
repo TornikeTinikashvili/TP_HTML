@@ -1,0 +1,17 @@
+h1 {
+    color: red;
+
+}
+#contenu {
+    background-color: lightgray;  
+
+}
+#contenu2 {
+    text-align: right;
+    font-size: 2em; 
+
+}
+.link {
+    color: yellowgreen;
+
+}
